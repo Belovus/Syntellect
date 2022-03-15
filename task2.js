@@ -1,4 +1,4 @@
-const people = 0
+const people = 10
 
 function calc(people) {
   if (people < 0) {
